@@ -1,0 +1,8 @@
+
+# (Not only) Xcode plugin architecture
+
+Xcode plugin architecture should focus on separat`ion of concerns between the plugin functionality and Xcode-characteristic classes.
+
+If you have trouble with this just ask yourself what is __the thing__ I want to do differently than Xcode. What is the functionality I want to add? The answer is the separated part.
+
+Hacks under the hood are better than _bad_ architecture. 
