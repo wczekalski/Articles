@@ -30,3 +30,5 @@ Yes, you might say that Facebook's `Internet.org` is bullshit because it redefin
 Who should we expect to be the change? Who has greatest assets to be the change? There might be many answers to these questions but technology companies is one of them for me. 
 
 There's so much unlocked potential in people who don't have access to technology. Let's raise the bar, let's expect more, for common good.
+
+No, I don't want Apple to find cure for cancer. I don't want them to deliver internet to Africa either. Let's think what they could do. They build great computers and mobile devices, they have outstanding designers and developers. What if they built more affordable devices? What if they used their assets to make privacy mainstream? If they just lived up to markething clips, the world would be a better place.
